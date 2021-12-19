@@ -12,7 +12,7 @@ namespace Sqlapp.Services
     {
         // Ensure to change the below variables to reflect the connection details for your database
 
-        private static string db_connectionstring= "server=10.0.0.4;user=appusr;password=Azure@123;database=appdb";
+        private static string db_connectionstring= "server=10.1.0.5;user=appusr;password=Azure@123;database=appdb";
         
         private MySqlConnection GetConnection()
         {
@@ -21,10 +21,10 @@ namespace Sqlapp.Services
             return new MySqlConnection(db_connectionstring);
         }
 
-        public IEnumerable<Course> GetCourses()
+        public IEnumerable<Interview> GetInterview()
         {
-            List<Course> _lst = new List<Course>();
-            string _statement = "SELECT CourseID,CourseName,rating from Course;";
+            List<Course> _lst = new List<Interview>();
+            string _statement = "SELECT InterviewID,InterviewerName,rating from Interview;";
             MySqlConnection _connection = GetConnection();
             // Let's open the connection
             _connection.Open();
@@ -35,10 +35,10 @@ namespace Sqlapp.Services
             {
                 while (_reader.Read())
                 {
-                    Course _course = new Course()
+                    Interview _course = new Interview()
                     {
-                        CourseID = _reader.GetInt32(0),
-                        CourseName = _reader.GetString(1),
+                        InterviewID = _reader.GetInt32(0),
+                        InterviewerName = _reader.GetString(1),
                         Rating = _reader.GetDecimal(2)
                     };
 

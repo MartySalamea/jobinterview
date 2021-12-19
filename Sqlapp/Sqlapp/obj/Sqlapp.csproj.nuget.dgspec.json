@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Sqlapp\\Sqlapp\\Sqlapp.csproj": {}
+    "C:\\Users\\HP\\Desktop\\jobinterview1\\Sqlapp\\Sqlapp\\Sqlapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Sqlapp\\Sqlapp\\Sqlapp.csproj": {
+    "C:\\Users\\HP\\Desktop\\jobinterview1\\Sqlapp\\Sqlapp\\Sqlapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Sqlapp\\Sqlapp\\Sqlapp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\jobinterview1\\Sqlapp\\Sqlapp\\Sqlapp.csproj",
         "projectName": "Sqlapp",
-        "projectPath": "C:\\Users\\HP\\Documents\\Sqlapp\\Sqlapp\\Sqlapp.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\jobinterview1\\Sqlapp\\Sqlapp\\Sqlapp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Sqlapp\\Sqlapp\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\jobinterview1\\Sqlapp\\Sqlapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
