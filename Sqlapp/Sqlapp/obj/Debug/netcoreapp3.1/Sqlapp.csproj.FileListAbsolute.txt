@@ -119,3 +119,13 @@ C:\Udemy\AZ-204\Docker\21. Application connecting to MySQL\Base App\Sqlapp\Sqlap
 C:\Udemy\AZ-204\Docker\21. Application connecting to MySQL\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
 C:\Udemy\AZ-204\Docker\21. Application connecting to MySQL\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb
 C:\Udemy\AZ-204\Docker\21. Application connecting to MySQL\Base App\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.genruntimeconfig.cache
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.AssemblyInfo.cs
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.dll
+C:\Users\HP\Desktop\jobinterview1\Sqlapp\Sqlapp\obj\Debug\netcoreapp3.1\Sqlapp.pdb

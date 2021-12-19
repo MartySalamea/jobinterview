@@ -12,7 +12,7 @@ namespace Sqlapp.Services
     {
         // Ensure to change the below variables to reflect the connection details for your database
 
-        private static string db_connectionstring= "server=10.1.0.5;user=appusr;password=Azure@123;database=appdb";
+        private static string db_connectionstring= "server=10.0.0.4;user=appusr;password=Azure@123;database=appdb";
         
         private MySqlConnection GetConnection()
         {
