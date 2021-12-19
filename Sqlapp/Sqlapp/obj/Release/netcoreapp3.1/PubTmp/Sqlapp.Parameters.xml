@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="interviewwebapp" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\HP\\Desktop\\jobinterview1\\Sqlapp\\Sqlapp\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  <parameter name="IIS Web Application Name" description="" value="newapp19090" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\tmp\\Sqlapp\\Sqlapp\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

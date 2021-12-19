@@ -21,10 +21,10 @@ namespace Sqlapp.Services
             return new MySqlConnection(db_connectionstring);
         }
 
-        public IEnumerable<Interview> GetInterview()
+        public IEnumerable<Course> GetCourses()
         {
-            List<Course> _lst = new List<Interview>();
-            string _statement = "SELECT InterviewID,InterviewerName,rating from Interview;";
+            List<Course> _lst = new List<Course>();
+            string _statement = "SELECT CourseID,CourseName,rating from Course;";
             MySqlConnection _connection = GetConnection();
             // Let's open the connection
             _connection.Open();
@@ -35,10 +35,10 @@ namespace Sqlapp.Services
             {
                 while (_reader.Read())
                 {
-                    Interview _course = new Interview()
+                    Course _course = new Course()
                     {
-                        InterviewID = _reader.GetInt32(0),
-                        InterviewerName = _reader.GetString(1),
+                        CourseID = _reader.GetInt32(0),
+                        CourseName = _reader.GetString(1),
                         Rating = _reader.GetDecimal(2)
                     };
 
